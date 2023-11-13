@@ -1,0 +1,19 @@
+.text-button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 19px;
+}
+.tab {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+  border-bottom: 2px solid #fec653;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 19px;
+}
